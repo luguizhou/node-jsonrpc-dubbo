@@ -1,10 +1,10 @@
 {
   "name": "node-jsonrpc-dubbo",
-  "version": "1.0.0",
-  "description": "node -> jsonrpc -> dubbo",
+  "version": "2.0.0",
+  "description": "node jsonrpc dubbo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "repository": {
     "type": "git",
@@ -16,10 +16,5 @@
     "jsonrpc"
   ],
   "author": "hufeng",
-  "license": "ISC",
-  "dependencies": {
-    "ip": "^0.3.2",
-    "node-json-rpc": "0.0.1",
-    "node-zookeeper-client": "^0.2.2"
-  }
+  "license": "MIT"
 }
